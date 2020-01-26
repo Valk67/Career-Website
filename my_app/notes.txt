@@ -1,0 +1,5 @@
+use docker run -it -p 8080:80 my_app in the directory of my_app to start the server.
+then navigate to http://localhost:8080
+
+references
+https://dev.to/peterj/run-a-react-app-in-a-docker-container-kjn
