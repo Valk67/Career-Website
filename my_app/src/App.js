@@ -13,8 +13,8 @@ import agent_file from './downloadableFiles/BradleySundsbarmResumeCS2020.pdf';
 import myAvatar from './downloadableFiles/self.jpeg';
 import chicoState from './downloadableFiles/CSUCHICO.png';
 import Paper from '@material-ui/core/Paper';
-import FormLabel from '@material-ui/core/FormLabel';
-import ResizeImage from 'react-resize-image'
+// import FormLabel from '@material-ui/core/FormLabel';
+// import ResizeImage from 'react-resize-image'
 
 
 
@@ -180,6 +180,7 @@ function App() {
           <Grid className={classes.bottomGrid}>
             <Grid item>
             <img src={chicoState} className="App-chico" alt="logo" />
+        
               Bachelor of Science in Computer Science. Chico State University, DEC 2019.
               
             </Grid>
@@ -191,7 +192,7 @@ function App() {
     </div>
   );
 }
-
+// maybe us <p> for the text above
    
 
 export default App;

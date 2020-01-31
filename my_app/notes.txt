@@ -3,3 +3,19 @@ then navigate to http://localhost:8080
 
 references
 https://dev.to/peterj/run-a-react-app-in-a-docker-container-kjn
+
+
+
+popular component I used for stylizing.
+https://material-ui.com/getting-started/usage/
+
+
+good website ideas 
+https://www.reddit.com/r/cscareerquestions/comments/6zgrl8/what_does_your_personal_site_look_like/
+
+
+deploy notes (most are right, unsure about when to link build)
+-firebase init
+-when it asks you to overwrite index say no
+-when it asks you what to deploy you say build 
+-firebase deploy
