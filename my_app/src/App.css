@@ -6,9 +6,10 @@
 }
 
 .App-logo {
-  height: 30vmin;
+  height: 20vmin;
   pointer-events: none;
-  /* position: relative; */
+  position: center;
+  /* padding: 10; */
 }
 
 .App-chico {
